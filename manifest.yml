@@ -1,0 +1,6 @@
+---
+applications:
+- name: YouChat
+  memory: 512M
+  host: youchat
+  buildpack: java
